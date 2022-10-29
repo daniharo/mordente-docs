@@ -106,6 +106,10 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/daniharo/mordente",
               },
+              {
+                label: "Memoria del proyecto",
+                href: "https://daniharo.github.io/TFG_Mordente/proyecto.pdf",
+              },
             ],
           },
         ],
