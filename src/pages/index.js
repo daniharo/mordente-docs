@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <Layout
       title={`Bienvenido a ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="El bot para gestionar tu banda"
     >
       <HomepageHeader />
       <main>
