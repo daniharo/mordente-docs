@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { BOT_URL } = require("./src/constants");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -70,6 +71,11 @@ const config = {
             label: "Tutorial",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: BOT_URL,
+            label: "Bot",
+            position: "right",
+          },
           {
             href: "https://github.com/daniharo/mordente",
             label: "GitHub",

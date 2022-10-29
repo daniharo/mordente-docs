@@ -21,6 +21,12 @@ function HomepageHeader() {
           >
             Tutorial de Mordente - 5min ⏱️
           </Link>
+          <Link
+            className="button button--info button--lg"
+            href="https://t.me/mordente_bot"
+          >
+            ¡Pruébalo ahora!
+          </Link>
         </div>
       </div>
     </header>
