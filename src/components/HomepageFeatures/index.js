@@ -4,32 +4,32 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    title: "No pierdas tiempo",
+    Svg: require("@site/static/img/undraw_compose_music_re_wpiw.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Mordente te permitirá ahorrar tiempo en la gestión de tu agrupación
+        musical. Dedícate a lo que realmente importa: la música.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    title: "Fácil de usar",
+    Svg: require("@site/static/img/undraw_share_opinion_re_4qk7.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Usa Mordente desde Telegram. No necesitas instalar nada más. ¿Sabes usar
+        un chat de Telegram? ¡Ya estás listo!
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    title: "Personalízalo a tu gusto",
+    Svg: require("@site/static/img/undraw_switches_1js3.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Mordente es un proyecto de código abierto. Siéntete libre de modificarlo
+        a tu gusto y compartirlo con el resto de la comunidad.
       </>
     ),
   },
