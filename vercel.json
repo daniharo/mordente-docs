@@ -1,0 +1,28 @@
+{
+  "redirects": [
+    {
+      "source": "/repo",
+      "destination": "https://github.com/daniharo/mordente"
+    },
+    {
+      "source": "/source",
+      "destination": "https://github.com/daniharo/mordente"
+    },
+    {
+      "source": "/source/docs",
+      "destination": "https://github.com/daniharo/mordente-docs"
+    },
+    {
+      "source": "/source/memoria",
+      "destination": "https://github.com/daniharo/TFG_Mordente"
+    },
+    {
+      "source": "/try",
+      "destination": "https://t.me/mordente_bot"
+    },
+    {
+      "source": "/memoria",
+      "destination": "https://daniharo.github.io/TFG_Mordente/proyecto.pdf"
+    }
+  ]
+}
