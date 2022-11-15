@@ -4,6 +4,18 @@
  * work well for content-centric websites.
  */
 
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@600&display=swap");
+
+.hero__title-font {
+  font-size: 3.5rem;
+  font-family: "Eczar", serif;
+}
+
+.navbar__title {
+  font-size: 1.5rem;
+  font-family: "Eczar", serif;
+}
+
 .hero--primary {
   --ifm-hero-background-color: var(--hero-background-color);
 }

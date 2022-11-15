@@ -58,9 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Mordente",
+        title: "mordente",
         logo: {
-          alt: "My Site Logo",
+          alt: "Logo de Mordente",
           src: "img/logo.svg",
         },
         items: [
@@ -93,6 +93,10 @@ const config = {
                 label: "Tutorial",
                 to: "/docs/intro",
               },
+              {
+                label: "Memoria del proyecto",
+                href: "https://daniharo.github.io/TFG_Mordente/proyecto.pdf",
+              },
             ],
           },
           {
@@ -107,8 +111,8 @@ const config = {
                 href: "https://github.com/daniharo/mordente",
               },
               {
-                label: "Memoria del proyecto",
-                href: "https://daniharo.github.io/TFG_Mordente/proyecto.pdf",
+                label: "Soporte",
+                href: "mailto:soporte@mordente.es",
               },
             ],
           },
