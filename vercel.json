@@ -23,6 +23,11 @@
     {
       "source": "/memoria",
       "destination": "https://daniharo.github.io/TFG_Mordente/proyecto.pdf"
+    },
+    {
+      "source": "/video/demo",
+      "destination": "https://www.youtube.com/watch?v=S54wjz0D5RQ",
+      "permanent": false
     }
   ]
 }
